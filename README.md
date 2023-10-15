@@ -33,7 +33,7 @@ Welcome to the SPA (Single Page Application) project I've built using Laravel an
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/your-username/your-repo.git
+    git clone https://github.com/H7mei/Laravel-SPA-DeepDive
     cd your-repo
     ```
 
