@@ -34,7 +34,7 @@ Welcome to the SPA (Single Page Application) project I've built using Laravel an
 
     ```bash
     git clone https://github.com/H7mei/Laravel-SPA-DeepDive
-    cd your-repo
+    cd Laravel-SPA-DeepDive
     ```
 
 2. **Install Dependencies**
@@ -55,10 +55,10 @@ Welcome to the SPA (Single Page Application) project I've built using Laravel an
     php artisan key:generate
     ```
 
-5. **Migrate the Database**
+5. **Migrate the Database And run seed**
 
     ```bash
-    php artisan migrate
+    php artisan migrate:fresh --seed
     ```
 
 6. **Compile JavaScript Assets**
